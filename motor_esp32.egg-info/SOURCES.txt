@@ -1,0 +1,8 @@
+setup.py
+motor_esp32/__init__.py
+motor_esp32/block_code.py
+motor_esp32.egg-info/PKG-INFO
+motor_esp32.egg-info/SOURCES.txt
+motor_esp32.egg-info/dependency_links.txt
+motor_esp32.egg-info/not-zip-safe
+motor_esp32.egg-info/top_level.txt
